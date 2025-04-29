@@ -1,4 +1,4 @@
-<h1>Oii, me chamo Kauan Henrique e esse é meu Github 😉</h1> 
+<h1>Oi, me chamo Kauan Henrique e esse é meu Github</h1> 
 
 
 <div align="center">
