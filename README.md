@@ -1,6 +1,6 @@
 ## 👨‍💻 Sobre mim
 
-Sou estudante de Ciência da Computação com interesse em Cybersegurança.
+Me chamo Kauan Henrique e sou estudante de Ciência da Computação com interesse em Cybersegurança.
 Atualmente estou focado em estudar segurança da informação, redes e sistemas, buscando entender como vulnerabilidades surgem e como podem ser prevenidas.
 
 Este GitHub funciona como um registro do meu aprendizado: aqui compartilho anotações, pequenos projetos, scripts e estudos práticos relacionados à computação e segurança.
